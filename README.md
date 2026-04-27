@@ -19,8 +19,6 @@ The operational instructions live in [`SKILL.md`](SKILL.md); the scripts and tem
 .
 ├── SKILL.md
 ├── README.md
-├── agents/
-│   └── openai.yaml
 ├── scripts/
 │   └── check-frida-android-env.sh
 └── templates/
